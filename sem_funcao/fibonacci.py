@@ -1,3 +1,4 @@
+
 n = int(input('Escolha um numero: '))
 x = 1
 ultimo = 1
