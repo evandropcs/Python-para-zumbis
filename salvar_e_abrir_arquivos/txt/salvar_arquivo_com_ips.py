@@ -1,4 +1,4 @@
-f = open(r'/home/evandrosilva/Workspace/logica-programacao/outros_projetos/python_para_zumbis/ips.txt', 'w')
+f = open(r'/ips.txt', 'w')
 texto = '''
 200.135.80.9
 192.168.1.1
